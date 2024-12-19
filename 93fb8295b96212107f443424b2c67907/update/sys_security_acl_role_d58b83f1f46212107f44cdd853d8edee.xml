@@ -2,17 +2,17 @@
     <sys_security_acl_role action="INSERT_OR_UPDATE">
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-12-17 14:47:00</sys_created_on>
-        <sys_id>58ad861db96212107f443424b2c67973</sys_id>
+        <sys_created_on>2024-12-19 08:34:30</sys_created_on>
+        <sys_id>d58b83f1f46212107f44cdd853d8edee</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_cdltd_loaner_req_loaner_requests.x_cdltd_loaner_req.loaner_request_user</sys_name>
+        <sys_name>x_cdltd_loaner_req_loaner_requests.x_cdltd_loaner_req.admin</sys_name>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">93fb8295b96212107f443424b2c67907</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">93fb8295b96212107f443424b2c67907</sys_scope>
         <sys_security_acl display_value="x_cdltd_loaner_req_loaner_requests">50ad861db96212107f443424b2c67971</sys_security_acl>
-        <sys_update_name>sys_security_acl_role_58ad861db96212107f443424b2c67973</sys_update_name>
+        <sys_update_name>sys_security_acl_role_d58b83f1f46212107f44cdd853d8edee</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-12-17 14:47:00</sys_updated_on>
-        <sys_user_role display_value="x_cdltd_loaner_req.loaner_request_user" name="x_cdltd_loaner_req.loaner_request_user">7e1c8a9db92212107f443424b2c6794f</sys_user_role>
+        <sys_updated_on>2024-12-19 08:34:30</sys_updated_on>
+        <sys_user_role display_value="x_cdltd_loaner_req.admin" name="x_cdltd_loaner_req.admin">a1201bedfda612107f4492de20188a72</sys_user_role>
     </sys_security_acl_role>
 </record_update>
